@@ -38,9 +38,10 @@ V = 24V - 36V (most cases)
 ### Known issues:
 1. Buck converter wrong connection
 2. Indicator LED driver MOSFETs have a wrong arrangement
+3. Update LM5010-12 footprint (at the moment its for the *-8.0)
 ---
 # Future development as of 5th of March, 2026
 
 Consider using 4-layer board --> miniturize
 Start designing pre-amplifier and volume control
-Update the footprint for LM5010-12 (its *-8.0 at the moment)
+
