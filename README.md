@@ -43,3 +43,4 @@ V = 24V - 36V (most cases)
 
 Consider using 4-layer board --> miniturize
 Start designing pre-amplifier and volume control
+Update the footprint for LM5010-12 (its *-8.0 at the moment)
