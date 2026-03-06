@@ -45,3 +45,8 @@ V = 24V - 36V (most cases)
 Consider using 4-layer board --> miniturize
 Start designing pre-amplifier and volume control
 
+1. LTSpice pre-amp circuit with volume control. (Bass..?)
+2. After pre amp circuit is done and valid, add the UI terminal in circuit. (Interfaces, LED indicators)
+3. After UI, DAC module, Bluetooth?
+4. Controlling MCU + flash option.
+5. Update the board design. Merge updates.
